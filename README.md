@@ -2,7 +2,6 @@ This is a quick url_encoder in python base on ![Paradoxis/agressive-url-encode](
 
 
 ```text
-
 usage: url_encode.py [-h] [-a] [-d] [string ...]
 
 positional arguments:
