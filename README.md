@@ -1,4 +1,4 @@
-This is a quick url_encoder in python base on ![Paradoxis/agressive-url-encode](https://gist.github.com/Paradoxis/6336c2eaea20a591dd36bb1f5e227da2/forks)
+This is a quick url_encoder in python base on ![Paradoxis/agressive-url-encode](https://gist.github.com/Paradoxis/6336c2eaea20a591dd36bb1f5e227da2)
 
 
 ```text
